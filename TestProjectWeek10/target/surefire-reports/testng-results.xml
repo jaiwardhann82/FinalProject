@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7790" started-at="2022-02-11T12:59:31 PST" finished-at="2022-02-11T12:59:39 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7790" started-at="2022-02-11T12:59:31 PST" finished-at="2022-02-11T12:59:39 PST">
+      <class name="week8.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:week8.NewTest@1e397ed7]" name="beforeTest" is-config="true" duration-ms="4901" started-at="2022-02-11T12:59:31 PST" finished-at="2022-02-11T12:59:36 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="BankUserLogin()[pri:0, instance:week8.NewTest@1e397ed7]" name="BankUserLogin" duration-ms="1403" started-at="2022-02-11T12:59:36 PST" finished-at="2022-02-11T12:59:38 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BankUserLogin -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:week8.NewTest@1e397ed7]" name="afterTest" is-config="true" duration-ms="1455" started-at="2022-02-11T12:59:38 PST" finished-at="2022-02-11T12:59:39 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- week8.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
