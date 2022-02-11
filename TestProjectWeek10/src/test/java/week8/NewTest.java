@@ -30,7 +30,7 @@ System.out.println("Verify functionality BankUserLogin");
 System.out.println("Title of the page after login is *** : "+webDriver.getTitle());
 
 }
-
+/*
 @Test
 public void CustomerRegistration() {
 //Load republic poly website as a new page
@@ -137,7 +137,7 @@ System.out.println("Transaction Status *** : "+webDriver.getTitle());
 
 }
 
-
+*/
 @BeforeTest
 public void beforeTest() {
 //Setting system properties of ChromeDriver
